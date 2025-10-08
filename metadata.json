@@ -1,0 +1,5 @@
+{
+  "name": "AI Invoice & Quote Generator",
+  "description": "An application to manage customers and generate invoices and quotations with the help of AI.",
+  "requestFramePermissions": []
+}
